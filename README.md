@@ -1,4 +1,9 @@
 Building simple Calculator
 javascript/HTML/CSS
 
-<video src="./calculator_demo.mp4" controls width="600"></video>
+
+https://github.com/user-attachments/assets/0dccaaac-6060-44f0-9f95-e38af5550f89
+
+
+
+
